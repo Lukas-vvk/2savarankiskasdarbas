@@ -1,0 +1,2 @@
+# 2savarankiskasdarbas
+Setup
